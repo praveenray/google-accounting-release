@@ -1,10 +1,10 @@
 {
   "version": "0.0.1",
   "notes": "Local Release 0.0.1",
-  "pub_date": "2026-05-26T07:52:16Z",
+  "pub_date": "2026-05-26T08:49:15Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNWc0aVRYbFNLZ2w5YnVqQUIxdGlSNll0ZTBGOTBuNFlVRGVaMG10Z0dYdzZOM3F4QnNXb3o0aHM5RUpmL2ZXSHZhbUJVUWxTRTVieGpwZEF3RTFtTVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzk2MjkwCWZpbGU6Ymx1ZWRvZy1hY2NvdW50c18wLjAuMV9hbWQ2NC5BcHBJbWFnZQplTkFYaGtoVkVYYkVOcHU1OTN5ckJHWDkrQUFUeWhiYjVDNFR2TnBKbFBuaWFkSmRGUlUyZmVpamxCQThXd3RTOEdTaG5RZ3l3R1lpdU5HRTBlY29DQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNWpHMm5udXl2Y21Pd09BZ2dhOUp6UmNDeVFySWtmemNURlYxemJNdStoRk8zZ2gxdE9LZCtVRG5BU3o5WjhDZExPRGF6b2Z3NU1IaytrNU1OOEkzMFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzk5NzM5CWZpbGU6Ymx1ZWRvZy1hY2NvdW50c18wLjAuMV9hbWQ2NC5BcHBJbWFnZQpvdG5DM2F1My9pVk9sKzFKc0xzbm52c2M5MHNYSHZyeTlzcTk3L1pUbm83KzZqTlhBc3FsNDUzQjZYVEZXWmJ4N2gvanphNVR4ZFQ5SG92SUFBVlVCQT09Cg==",
       "url": "https://github.com/praveenray/google-accounting-release/raw/main/google-accounting.AppImage"
     }
   }
