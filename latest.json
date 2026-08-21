@@ -1,11 +1,11 @@
 {
-  "version": "0.0.3",
-  "notes": "Release 0.0.3",
-  "pub_date": "2026-06-14T16:36:25Z",
+  "version": "0.0.4",
+  "notes": "Release 0.0.4",
+  "pub_date": "2026-08-21T16:12:02Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNWdLa0dlL0s4eW9LTWVxcVFLVWovN0N2K25uU2Z1VTQydFd5eGpjcHp5RmljS1EzVkZNZVhrOHRFZ0JUS3E0SEhBaUFjUHdRMWdiNVdNQklhY2VTZ1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDY5MzgwCWZpbGU6Ymx1ZWRvZy1hY2NvdW50c18wLjAuM19hbWQ2NC5BcHBJbWFnZQovcWFiT3FWbG5rdHY5OXVwL1dkcUZGb3ZadEVpZW5PclEyeFp2M1V6bHJHbTlBSHFnWVZ3TzU1WWRWQzc1aEVrRGhhVHN5Y3EvbGNOZU4xcEl6TXdCZz09Cg==",
-      "url": "https://github.com/praveenray/google-accounting-release/releases/download/v0.0.3/google-accounting.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNXVZKy9CRThBSVhzMUtJUHNpUWJkMkl2c0RGbkRvS0dwclg1S1hVMCsvYWRxaTBHYmhCSDM3UXVFL0JCY3FPREZRZE1kcUN6a3RsRnRkU0ZKL2hLb0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzQzMDc1CWZpbGU6Ymx1ZWRvZy1hY2NvdW50c18wLjAuNF9hbWQ2NC5BcHBJbWFnZQo1ejBOMWJDZ0RwUDBBcWg2N1hCaGwrMXpuSmJ2VzM4SmIways0aUlOenEzRWxQRWVBZnFPVXplM2N2M0k5MzFUUnpDNkJoVGV2WkRObkNjdkJZQlFBdz09Cg==",
+      "url": "https://github.com/praveenray/google-accounting-release/releases/download/v0.0.4/google-accounting.AppImage"
     }
   }
 }
