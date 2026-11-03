@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-11-02T19:50:54Z",
+  "notes": "Release 0.0.10",
+  "pub_date": "2026-11-03T08:01:52Z",
+  "version": "0.0.10",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/praveenray/google-accounting-release/releases/download/v0.0.10/google-accounting-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNWsrc0xzUUxqSzhEZ0VnVFUvekZJZUxYbE5IT2NUcFJRTk1zdlFSRThxSkYrRXZqQ0tFZkg4eURVdnR4dUdwR2lvV1NmN1c2ZE5sTGIxcFRWMjdjZWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjY3MDUwCWZpbGU6Z29vZ2xlLWFjY291bnRpbmdfMC4wLjEwX3g2NC1zZXR1cC5leGUKMlM0bTBiKzNkVWRUdHJ6NU5BMWNMUlAzbk5lbWhGOFZJYzNDdEhsbE1seDFQS3VnT1N5U3JPU2IySlRXdGxNSnNTbXRsY04xa0Fpa0hHcVNrMXVRQ3c9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNXFiMnQ5T3QwY3ZPdE9TRDRkZ3RHZE42MEVXTk1YaVROSW96RERoTHF0TVM5RktPZmU1R0ZDaGZkTUJmNi9lWmFNbjg1ZlBCZkVBZk1GSmI1bXFpMXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzEwOTA4CWZpbGU6Z29vZ2xlLWFjY291bnRpbmdfMC4wLjEwX3g2NC1zZXR1cC5leGUKYVhPYjlFN0R1dXdNYUdMdHZtYUczNVYwN3VIanR0czkzWEhvV3BkUlZITVdsVmFJc2g4TTlSQkhqS1ordFczcjM2UmNEak0vZDR3RG5VQWlEN2lsQWc9PQo="
     }
-  },
-  "version": "0.0.10",
-  "notes": "Release 0.0.10"
+  }
 }
