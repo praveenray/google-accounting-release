@@ -1,15 +1,15 @@
 {
-  "notes": "Release 0.0.12",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNW9OVVh1dzBnMFkwU2ZyaEplSkdJNjA2b21GdUM5NXhjSEdNd1p3MVZLVTc5dXBvekU1bTduS0poOVRuN2xRektOUXc0M1ZHbVBsMGVKdm5KWjdqV3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY5MzQ4CWZpbGU6Z29vZ2xlLWFjY291bnRpbmdfMC4wLjEyX3g2NC1zZXR1cC5leGUKdlV5NC80SlFBRkxKRzl4MS90SkRiQk40N1ZBV3AyQmdqTGV6MFJCVEZHSDdEVlYraXRUUXZ4bjM3K3JUVXpoQmFFeEpmZk4yWUthZnlTZ2o5Z2U2REE9PQo=",
-      "url": "https://github.com/praveenray/google-accounting-release/releases/download/v0.0.12/google-accounting-setup.exe"
+      "url": "https://github.com/praveenray/google-accounting-release/releases/download/v0.0.12/google-accounting-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNW9uTmthbndBYUZRckNSaWloUlZUSEdwMTJXSWU2a0ZlQXRVdVRGVk5DNlROOXQxZ09qVy9RbHdXSU9XZDJCb0FSTEdKWUg5VEFhcFdiUmgvaitPcVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjcwMTMyCWZpbGU6Z29vZ2xlLWFjY291bnRpbmdfMC4wLjEyX3g2NC1zZXR1cC5leGUKOW44SzJBRHRiMUdFWHUxaElUOFhuSmtkaWxDdWJ1MkJ4WWd5b2RtL1p5ejA1UzFEMndzN2RTQTk3MEZRS1pLaWU3MlBsRE5COTJHd0FYb21ocWZkQ1E9PQo="
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNXRzbklwVkNpRXc2Q1hNSndaS0d1dGZhcVpYRFBER3JPKzdMcGd0eWhGZTJNRWFydEVsUlpaZjBDQk96dWorMTJnRUFLa0J4cE5ITW5FYlF3UkVOa0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDYxNjgzCWZpbGU6Z29vZ2xlLWFjY291bnRpbmdfMC4wLjEyX2FtZDY0LkFwcEltYWdlClc4Ylk1aUIyWHBhTVp4WVFRcWh4TXdxVXNRMDVUMGIzN3VtMUJ4QnVnQnRLNzhtTGdHcy9oTlRJc05mc3F0bUN4MWpiUG5UMFFpajVIV3hvWGFaNERRPT0K",
-      "url": "https://github.com/praveenray/google-accounting-release/releases/download/v0.0.12/google-accounting.AppImage"
+      "url": "https://github.com/praveenray/google-accounting-release/releases/download/v0.0.12/google-accounting.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNXRzbklwVkNpRXc2Q1hNSndaS0d1dGZhcVpYRFBER3JPKzdMcGd0eWhGZTJNRWFydEVsUlpaZjBDQk96dWorMTJnRUFLa0J4cE5ITW5FYlF3UkVOa0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDYxNjgzCWZpbGU6Z29vZ2xlLWFjY291bnRpbmdfMC4wLjEyX2FtZDY0LkFwcEltYWdlClc4Ylk1aUIyWHBhTVp4WVFRcWh4TXdxVXNRMDVUMGIzN3VtMUJ4QnVnQnRLNzhtTGdHcy9oTlRJc05mc3F0bUN4MWpiUG5UMFFpajVIV3hvWGFaNERRPT0K"
     }
   },
-  "pub_date": "2026-11-21T08:55:52Z",
-  "version": "0.0.12"
+  "version": "0.0.12",
+  "notes": "Release 0.0.12",
+  "pub_date": "2026-11-21T09:08:56Z"
 }
