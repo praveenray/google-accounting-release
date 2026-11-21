@@ -1,11 +1,15 @@
 {
+  "version": "0.0.13",
+  "notes": "Release 0.0.13",
+  "pub_date": "2026-11-21T16:44:37Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/praveenray/google-accounting-release/releases/download/v0.0.13/google-accounting-setup.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNXNVNHk3MU50bEpJQkdaa1IzTE5pbFhFSHg1VW9nZWdFMjFtcStzSFFMbzJheWVRTUsvakI2TGpPNXJ4dTZkdXBqeEpLZFQ4VUFIQnUyUGNTaUFoZGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjk3MTc3CWZpbGU6Z29vZ2xlLWFjY291bnRpbmdfMC4wLjEzX3g2NC1zZXR1cC5leGUKSnRyWU1wYkZjQXQ1bksyZnJyMnd6NTVyaEM2NVRuTmtZdEJzaEt0WXlITW1KSkpCZDdmOE9JcXJaNW1NZFhhRTkzSkt0WlNDdnJTM0NDa3I3S1NpQ0E9PQo="
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlhCaFJWaGxpNW5QYUtzcmJDUkhUOVZmcWtHZ1FtMGpKSkxWZWNYcUl4VjZoQXk4RXVTQXZENVBkZWRtbVlRWkNsbzJuU0h1VEpXSDNtNTM0WTU2SnFWZXhPQmRiL2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjk3NDczCWZpbGU6Z29vZ2xlLWFjY291bnRpbmdfMC4wLjEzX2FtZDY0LkFwcEltYWdlCjdSUlRSeW9BSmN6OHdnZGU4VWVjenNtQW1zZmdrTHRZNWpjQXdQUEZuVWU5c0s0b3Y0L3BFYmd3RFN6OXlMUTkvSTBWYysxa1BWOUxJSHZrMmREZER3PT0K",
+      "url": "https://github.com/praveenray/google-accounting-release/releases/download/v0.0.13/google-accounting.AppImage"
     }
-  },
-  "version": "0.0.13",
-  "notes": "Release 0.0.13",
-  "pub_date": "2026-11-21T16:39:41Z"
+  }
 }
